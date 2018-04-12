@@ -31,4 +31,4 @@ const STORE = {
   filter: 0,
 };
 
-console.log(STORE);
+//console.log(STORE);
